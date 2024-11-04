@@ -160,7 +160,7 @@ const styles = StyleSheet.create({
   },
   empty: {
     flex: 1,
-    flexBasis: 0,
+    flexBasis: 46,
   },
   root: {
     flexBasis: 46,
