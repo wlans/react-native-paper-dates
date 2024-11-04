@@ -145,7 +145,7 @@ const styles = StyleSheet.create({
     borderRadius: daySize / 2,
   },
   day: {
-    flexBasis: 0,
+    flexBasis: 46,
     flex: 1,
     borderRadius: daySize / 2,
     width: daySize,
@@ -163,7 +163,7 @@ const styles = StyleSheet.create({
     flexBasis: 0,
   },
   root: {
-    flexBasis: 0,
+    flexBasis: 46,
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
